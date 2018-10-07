@@ -18,6 +18,7 @@
         "ext-mbstring": "*",
         "ext-sqlite3": "*",
         "ext-imagick": "*"
+        "ext-ftp": "*"
     },
     "platform-dev": []
 }
