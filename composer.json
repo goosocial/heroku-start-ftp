@@ -1,4 +1,4 @@
-{
+
   "require": {
     "php": "7.1.22",
     "ext-bcmath": "*",
@@ -26,4 +26,4 @@
     "ext-sqlite3": "*",
     "ext-imagick": "*"
   }
-}
+
