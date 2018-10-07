@@ -1,29 +1,9 @@
 {
   "require": {
     "php": "7.1.22",
-    "ext-bcmath": "*",
-    "ext-ftp": "*",	   
-    "ext-gd": "*",   	   	   	   	   	   	   	   	     
-    "ext-gettext": "*",
-    "ext-geoip": "*",
+    "ext-gd": "*",
     "ext-mbstring": "*",
-    "ext-mysqli": "*",
-    "ext-mcrypt": "*",
-    "ext-pcre": "*",
-    "ext-bz2": "*",
-    "ext-zip": "*",
-    "ext-mail": "*",
-    "ext-iconv": "*",
-    "ext-curl": "*",
-    "ext-openssl": "*",
-    "ext-ioncube": "*",
-    "ext-imap": "*",
-    "ext-lzf": "*",
-    "ext-fileinfo": "*",
-    "ext-pdo_pgsql": "*",
-    "ext-pgsql": "*",
-    "ext-pcre": "*",
     "ext-sqlite3": "*",
-    "ext-imagick": "*",
+    "ext-imagick": "*"
   }
 }
